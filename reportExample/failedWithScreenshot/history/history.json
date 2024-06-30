@@ -1,0 +1,1 @@
+{"5ad8dcd2dcab18200d8ac6639aa52325":{"statistic":{"failed":1,"broken":0,"skipped":0,"passed":0,"unknown":0,"total":1},"items":[{"uid":"1aec9c837fac25bf","status":"failed","statusDetails":"Start page is not opened expected [true] but found [false]","time":{"start":1719747998223,"stop":1719747999211,"duration":988}}]}}
